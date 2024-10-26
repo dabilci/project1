@@ -1,0 +1,14 @@
+C:\Users\power\OneDrive\Masaüstü\ToDo_list\ToDo_list\bin\Debug\net8.0\ToDo_list.exe
+C:\Users\power\OneDrive\Masaüstü\ToDo_list\ToDo_list\bin\Debug\net8.0\ToDo_list.deps.json
+C:\Users\power\OneDrive\Masaüstü\ToDo_list\ToDo_list\bin\Debug\net8.0\ToDo_list.runtimeconfig.json
+C:\Users\power\OneDrive\Masaüstü\ToDo_list\ToDo_list\bin\Debug\net8.0\ToDo_list.dll
+C:\Users\power\OneDrive\Masaüstü\ToDo_list\ToDo_list\bin\Debug\net8.0\ToDo_list.pdb
+C:\Users\power\OneDrive\Masaüstü\ToDo_list\ToDo_list\obj\Debug\net8.0\ToDo_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\power\OneDrive\Masaüstü\ToDo_list\ToDo_list\obj\Debug\net8.0\ToDo_list.AssemblyInfoInputs.cache
+C:\Users\power\OneDrive\Masaüstü\ToDo_list\ToDo_list\obj\Debug\net8.0\ToDo_list.AssemblyInfo.cs
+C:\Users\power\OneDrive\Masaüstü\ToDo_list\ToDo_list\obj\Debug\net8.0\ToDo_list.csproj.CoreCompileInputs.cache
+C:\Users\power\OneDrive\Masaüstü\ToDo_list\ToDo_list\obj\Debug\net8.0\ToDo_list.dll
+C:\Users\power\OneDrive\Masaüstü\ToDo_list\ToDo_list\obj\Debug\net8.0\refint\ToDo_list.dll
+C:\Users\power\OneDrive\Masaüstü\ToDo_list\ToDo_list\obj\Debug\net8.0\ToDo_list.pdb
+C:\Users\power\OneDrive\Masaüstü\ToDo_list\ToDo_list\obj\Debug\net8.0\ToDo_list.genruntimeconfig.cache
+C:\Users\power\OneDrive\Masaüstü\ToDo_list\ToDo_list\obj\Debug\net8.0\ref\ToDo_list.dll
